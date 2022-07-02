@@ -2,4 +2,4 @@
 
 # Code for the FreeCodeCamp certificat 'Scientific Computing with Python'
 
-# This is the 3rd project 'Time Calculator'
+# This is the 4th project 'polygon area'
